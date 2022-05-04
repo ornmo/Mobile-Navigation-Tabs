@@ -1,7 +1,8 @@
-This project is made of background images that expand when clicked on. 
+This project is a mobile view UI with a background image and various navigations - home, work, view and about us. 
+As the User navigates through the menu options the icons will change colour as well as the background image too
 
 It uses Flexbox, CSS transitions and JavaScript
 
 This could be converted to be used in (for example) the following ways
 
-- 
+- mobile view options
